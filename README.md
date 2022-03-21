@@ -10,7 +10,7 @@ the total fare that each type of city accumulates.
 
 ### Overall Data Summary
 
-![screenshot]()
+![screenshot](https://github.com/KW0114/pyber-analysis/blob/928dae1907188e890e5a2784d64b1323051df84b/Resources/pyber_summary_df.png)
 
 Looking at the chart above, we can see several different relationships between each quantity before
 even attempting to visualize this data. Rural areas tend to have more distance between locations of
@@ -21,7 +21,7 @@ see these numbers go down.
 
 These insights easily lead to our line chart for weekly fares by city type:
 
-![screenshot]()
+![screenshot](https://github.com/KW0114/pyber-analysis/blob/928dae1907188e890e5a2784d64b1323051df84b/Resources/total%20fare%20by%20city%20type.png)
 
 This data readily agrees with the information above. Urban areas have a much denser population than rural
 or suburban areas, which means that much more people are looking for rides. We can also take into 
